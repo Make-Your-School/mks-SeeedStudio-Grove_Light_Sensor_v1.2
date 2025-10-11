@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_Light_Sensor_v1.2_minimal/Grove_Light_Sen
 
 # Helligkeitssensor
 
-![Helligkeitssensor](30_helligkeitssensor.jpg)
+![Helligkeitssensor](./30_helligkeitssensor.jpg)
 
 ## Beschreibung
 Der Helligkeitssensor ermittelt die ihn umgebende Helligkeit. Er besteht aus einem Fotowiderstand, der abhängig von der Umgebungshelligkeit seinen Widerstand ändert. Durch die interne Verschaltung gibt der Sensor proportional zu der Helligkeit schließlich eine analogeSpannung aus. Der Sensor kann direkt oder mithilfe des Grove Shields an einen Arduino angeschlossen werden.
