@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Light_Sens
 repo_prefix: "mks"
 repo_part: "Grove_Light_Sensor_v1.2"
 embedded_example_file: "examples/Grove_Light_Sensor_v1.2_minimal/Grove_Light_Sensor_v1.2_minimal.ino"
-title: 'Helligkeitssensor'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
